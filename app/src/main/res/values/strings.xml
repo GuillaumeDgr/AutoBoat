@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AutoBoat</string>
+    <string-array name="autoboat">
+        <item>Sélectionnez votre type de véhicule</item>
+        <item>Voiture</item>
+        <item>Bateau</item>
+        <item>Moto</item>
+    </string-array>
+</resources>
